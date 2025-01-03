@@ -1,0 +1,1 @@
+This is a linear regression model that predicts student preformance based on previous data

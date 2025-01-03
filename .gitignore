@@ -1,1 +1,7 @@
+#virtual environment
 SP-env/
+
+#data
+student-preformance/
+
+.DS_Store

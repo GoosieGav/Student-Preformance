@@ -5,3 +5,6 @@ SP-env/
 student-preformance/
 
 .DS_Store
+
+#saved model
+SPmodel.pickle

@@ -1,9 +1,13 @@
 This is a linear regression model that predicts student preformance based on previous data.
 
-This repo contains two versions of the code, one using multiple features thus having higher accuracy, but not it is not graphable. The other version just uses a single feature meaning it can be graphed, but it has lower accuracy.
+From the dataset, I chose certain features that would be more benefical towards the accuracy of the model. It uses features such as former grades, study time, and absences.
 
-Both of the models use sklearn linear regression, and they come from UC Irvine's dataset on student grades. https://archive.ics.uci.edu/dataset/320/student+performance 
+The model's data can also be plotted for every feature.
 
-<img width="729" alt="Screenshot 2025-01-03 at 5 11 03 PM" src="https://github.com/user-attachments/assets/dee710cb-a506-479c-9b01-3c8ba04d490e" />
+Here are some examples: 
 
-Above is the plotted linear regression model fitted to the one-feature data.
+<img width="829" alt="Screenshot 2025-01-05 at 1 55 14 PM" src="https://github.com/user-attachments/assets/f43524b3-b967-4b18-a682-75291dd296cd" />
+
+<img width="829" alt="Screenshot 2025-01-05 at 1 55 30 PM" src="https://github.com/user-attachments/assets/5e595c1e-5365-4647-8753-fc12b8b817b6" />
+
+As you can see, some features provide more linear shapes than others.
